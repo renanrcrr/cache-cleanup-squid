@@ -4,8 +4,8 @@ from time import sleep
 import os
 
 class CacheSquid:
-    def limparCache(self):
-        os.system("/etc/init.d/squid3 stop")
+	def limparCache(self):
+		os.system("/etc/init.d/squid3 stop")
         
         sleep(15)
         
