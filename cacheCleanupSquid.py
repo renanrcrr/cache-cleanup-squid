@@ -23,12 +23,12 @@ class CacheSquid:
         
         os.system("rm -rf /var/spool/squid3.del")
 
-def main():
-    cs = CacheSquid()
-    cs.limparCache()
+	def main():
+		cs = CacheSquid()
+		cs.limparCache()
 
 if __name__ == '__main__':
-    main()
+	main()
     
 
 
