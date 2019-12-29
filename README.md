@@ -1,5 +1,3 @@
-#Script em python que limpa o cache do squid3 no linux
-
 # Cache's Cleanup Squid
 
 :computer: :bulb: :open_file_folder: :wrench:
